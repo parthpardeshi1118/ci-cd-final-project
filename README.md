@@ -1,7 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
-# Building CI/CD Pipelines
+# CI/CD Final Project
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary>Table of Contents</summary>
